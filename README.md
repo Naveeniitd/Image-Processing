@@ -9,14 +9,9 @@
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">COL783 Assignment 1</h1>
-<p class="subtitle">Due date: 29 August 2024</p>
+<h1 class="title">Basic image operations, intensity
+transformations, spatial filtering, and colour image processing</h1>
 </header>
-<p>This assignment deals with basic image operations, intensity
-transformations, spatial filtering, and colour image processing.</p>
-<p>The assignment is in two parts. Part 1 is being released on 8 August.
-Part 2 will be released once we have covered spatial filtering and
-colour image processing.</p>
 <section id="part-1" class="level2">
 <h2>Part 1</h2>
 <ol type="1">
