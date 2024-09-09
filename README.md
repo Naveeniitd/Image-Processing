@@ -2,15 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
   
-  <link rel="stylesheet" href="style.css" />
-  <link rel="stylesheet" href="../style.css" />
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
-  type="text/javascript"></script>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
+ 
+
+
+   
 </head>
 <body>
 <header id="title-block-header">
